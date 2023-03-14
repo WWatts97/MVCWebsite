@@ -8,6 +8,15 @@ a.classmate {
     background-color: rgb(44, 62, 80);
     color: #1abc9c;
 }
+@keyframes anni {
+    from { background-color: red;}
+    to {background-color: yellow;}
+}
+
+div.anni {
+    animation-name: anni;
+    animation-duration: 10s;
+}
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     background-color: rgb(110, 20, 151);
