@@ -18,6 +18,10 @@ div.anni {
     animation-duration: 10s;
 }
 
+section#portfolio {
+    background-image:
+}
+
 #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     background-color: rgb(110, 20, 151);
 }
@@ -43,7 +47,7 @@ h4  {
     height: 50%;
 }
 .masthead-avatar {
-    border-radius: 1000px;
+    border-radius: 50px;
 }
 a.modalbtn {
     background-color: rgb(44, 62, 80);
